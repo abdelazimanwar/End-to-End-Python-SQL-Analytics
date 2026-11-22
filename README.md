@@ -81,7 +81,7 @@ Developed analytical queries using different SQL techniques, including:
 
 The following diagram illustrates the Star Schema architecture and relationships between the fact and dimension tables.
 
-![Star Schema Data Model](Documents/Data%20Diagram.png)
+![Star Schema Data Model](docs/Data%20Diagram.png)
 
 ## Repository Structure
 
