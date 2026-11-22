@@ -97,7 +97,7 @@ End-to-End-Python-SQL-Analytics/
 ├── SQL/
 │   └── SQL Analysis Queries
 │
-├── Documents/
+├── docs/
 │   └── Data Diagram.png
 │
 └── README.md
